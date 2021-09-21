@@ -21,7 +21,7 @@ export function NewRoom() {
 
         event.preventDefault();
 
-        if (newRoom.trim() == '') {
+        if (newRoom.trim() === '') {
             return;
         }
 
