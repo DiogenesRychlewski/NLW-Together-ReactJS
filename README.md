@@ -6,9 +6,11 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-React
-Firebase
-TypeScript
+-React
+
+-Firebase
+
+-TypeScript
 
 💻 Projeto
 
